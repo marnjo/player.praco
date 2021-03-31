@@ -2,8 +2,10 @@
 
 ### Description
 
-This is a Simple CRUD API I made to practise my java and sprinf boot skills
+This is a Simple CRUD API I made to practise my java and spring boot skills
+
 It hase the basic create read-all/read-individual update delete functionalities
+
 It still does not have the data validation and 404 route handling.
 
 ### Authors information
